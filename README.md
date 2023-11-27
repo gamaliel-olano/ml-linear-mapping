@@ -1,6 +1,8 @@
 # ml-linear-mapping
 Assignment for CoE197M class (Machine Learning) last Nov 2022 wherein projective distortion was removed in images
 
+# Assignment Instructions
+
 Learning Objective:
 1) Learn how to apply linear mapping concepts on removing projective distortion
 
